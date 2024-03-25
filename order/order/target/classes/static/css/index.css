@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.nav {
+    list-style-type: none;
+    overflow:hidden;
+    background-color:rgb(233, 184, 58);
+    color: rgb(22, 177, 99);
+    font-family: sans-serif;
+
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color:rgb(233, 184, 58);
+    color: rgb(59, 41, 219);
+  }
